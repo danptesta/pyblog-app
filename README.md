@@ -1,2 +1,2 @@
 # pyblog-app
-POC using serverless framework with dyanamodb and python
+POC using serverless framework with dynamodb and python
