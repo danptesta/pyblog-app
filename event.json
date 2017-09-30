@@ -1,0 +1,4 @@
+{
+  "pathParameters": {"article_id": "test-article-id"},
+  "body": "{\"article_id\":\"05aef6c0-a3da-11e7-8656-c79c22fdc022\", \"text\": \"hello universe\"}"
+}
